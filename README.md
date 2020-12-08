@@ -14,11 +14,11 @@ Description :
 	à les adapter pour faire marcher les différentes parties, et ensuite les assembler dans un code pour que le robot puisse réussir un petit parcours. 
 
 
-Groupe :\
-	-Martinez Justine\
+Groupe :
 	-Borgi Tatiana\
 	-Franch Léo\
-	-Hacquet Quentin
+	-Hacquet Quentin\
+	-Martinez Justine\
 
 ZenHub : 
 
